@@ -27,3 +27,5 @@
 
 - [Заполнение поля `Краткий Состав Документа` (Форма Списка)](https://github.com/alex-dev-2020/ConvSB1.6toHRM2.5/commit/22dd2b3c4bd5c7ae0a618e561714b37db270222d#diff-35fc13a27fda76ff80c6edd898bf98a0dc765efa8ec67b8ca9eac7e11e57d217) -  Обработчик `ПослеЗагрузки`
 
+- [Заполнение Закладки **Начисление** - поле ТЧ **Вид Расчета** ](https://github.com/alex-dev-2020/ConvSB1.6toHRM2.5/commit/cbefdb2c3b08bdc497ce9a36ad1790519d4e93f0#diff-35fc13a27fda76ff80c6edd898bf98a0dc765efa8ec67b8ca9eac7e11e57d217) -  **ПКС & ПКГС**  *Виды расчета :  **Оклад по дням** & **Сдельная оплата (% от суммы))*** 
+
